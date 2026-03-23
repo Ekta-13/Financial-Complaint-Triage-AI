@@ -1,7 +1,7 @@
 # 📂 Financial Complaint Triage AI
 > **An Intelligent NLP Pipeline for Automated Dispute Routing & HITL Oversight**
 
-**🔗 [Live Demo on Streamlit](https://github.com/Ekta-13/Financial-Complaint-Triage-AI)**
+**🔗 [Live Demo on Streamlit](https://financial-complaint-triage-ai-tfiu8ap9r6eu53u7ou3scm.streamlit.app)**
 
 ## 🎯 What it is
 I engineered an end-to-end **Natural Language Processing (NLP)** system to automate the triage of 40,000+ consumer complaints from the CFPB database. The system converts messy, unstructured text into structured categories (e.g., Mortgages, Debt Collection, Credit Cards), allowing financial institutions to prioritize urgent disputes instantly.
