@@ -30,7 +30,7 @@ The system follows a professional **Data Engineering Pipeline**:
 * **Precision-First Design:** Optimized for **Precision** to ensure that complaints routed to specialized departments are correctly labeled, reducing operational "ping-pong" between teams.
 
 ## 📉 System Architecture
-![NLP Triage Flowchart] (https://github.com/user-attachments/assets/bc65d503-3c11-4c74-9d92-c02347ea32d3)
+![NLP Triage Flowchart](https://github.com/user-attachments/assets/bc65d503-3c11-4c74-9d92-c02347ea32d3)
 
 ## ⚡ Quick Start
 ```bash
