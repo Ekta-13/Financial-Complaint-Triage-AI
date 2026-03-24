@@ -25,7 +25,7 @@ The system follows a professional **Data Engineering Pipeline**:
 * **App Framework:** Streamlit
 * **Data Management:** Pandas
 
-## 🧠 Strategic Engineering (The "Anti-AI" Flex)
+## 🧠 Strategic Engineering
 * **Handling Class Imbalance:** Used **Stratified Splitting** to ensure the model performs accurately even on minority categories like "Payday Loans."
 * **Precision-First Design:** Optimized for **Precision** to ensure that complaints routed to specialized departments are correctly labeled, reducing operational "ping-pong" between teams.
 
